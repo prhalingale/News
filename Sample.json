@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Leah Sarnoff, Ivan Pereira, Jolie Lash",
+      "title": "8 dead in Joliet, Illinois, killings; suspect dead in Texas after manhunt - ABC News",
+      "description": "Romeo Nance is believed to have died from a self-inflicted gunshot.",
+      "url": "https://abcnews.go.com/US/police-joliet-searching-man-after-multiple-deceased-people/story?id=106579185",
+      "urlToImage": "https://i.abcnewsfe.com/a/9095b796-afe2-4f94-a2f0-10001282f536/Romeo-Nance-1-ht-gmh-240122_1705962071311_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-23T14:07:46Z",
+      "content": "Seven people were found shot to death in two homes in the Chicago suburb of Joliet, Illinois, on Monday in what one official described as the \"worst crime scene I've ever been associated with.\"\r\nThe … [+3105 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Myles Simmons",
+      "title": "Report: Brian Johnson will not return as Eagles offensive coordinator - NBC Sports",
+      "description": "The Eagles will now need two new coordinators after also parting ways with Sean Desai.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-brian-johnson-will-not-return-as-eagles-offensive-coordinator",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8a93297/2147483647/strip/true/crop/8640x4860+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F81%2Fe64aa87f4c07aaad5391aee41cff%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1609054975",
+      "publishedAt": "2024-01-23T14:05:54Z",
+      "content": "The Eagles will now need two coordinators. \r\nPer Jeff McLane of the Philadelphia Inquirer, Brian Johnson will not return to the team as offensive coordinator. \r\nJohnson had just completed his first y… [+751 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Michael Wayland",
+      "title": "GM unveils 2025 Chevy Equinox with new rugged design, standard heated seats - CNBC",
+      "description": "GM is redesigning the Chevrolet Equinox crossover to look more rugged than its predecessors in an attempt to move the vehicle upmarket and attract new buyers.",
+      "url": "https://www.cnbc.com/2024/01/23/gm-unveils-2025-chevy-equinox.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107362594-1705953171602-Equinox.JPG?v=1705959289&w=1920&h=1080",
+      "publishedAt": "2024-01-23T14:00:01Z",
+      "content": "The 2025 Chevrolet Equinox RS.\r\nDETROIT General Motors is redesigning its gas-powered Chevrolet Equinox crossover to look more rugged than its predecessors in an attempt to move the vehicle upmarket … [+3683 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "How Fani Willis allegations could affect Trump's Georgia election case - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/01/23/trump-georgia-case-fani-willis-allegations",
+      "urlToImage": null,
+      "publishedAt": "2024-01-23T13:27:48Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Richard Lawler, Chris Welch",
+      "title": "WWE Monday Night Raw is ditching cable for Netflix - The Verge",
+      "description": "Netflix will be the exclusive home of WWE Monday Night Raw in the US starting in 2025, as well as other wrestling content outside the US in the streamer’s first big live TV deal.",
+      "url": "https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bymrMzGYrFlDz8PXoH-N6_49-6M=/0x0:5055x3370/1200x628/filters:focal(2528x1685:2529x1686)/cdn.vox-cdn.com/uploads/chorus_asset/file/25243488/1677191365.jpg",
+      "publishedAt": "2024-01-23T13:08:06Z",
+      "content": "WWE Monday Night Raw is ditching cable for Netflix\r\nWWE Monday Night Raw is ditching cable for Netflix\r\n / Netflixs first big live TV deal is for one of cables most reliable ratings draws. Itll take … [+3131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Guardian",
+      "title": "Blood test could revolutionise diagnosis of Alzheimer’s, experts say - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjQvamFuLzIzL2Jsb29kLXRlc3QtY291bGQtcmV2b2x1dGlvbmlzZS1kaWFnbm9zaXMtb2YtYWx6aGVpbWVycy1leHBlcnRzLXNhedIBcmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjQvamFuLzIzL2Jsb29kLXRlc3QtY291bGQtcmV2b2x1dGlvbmlzZS1kaWFnbm9zaXMtb2YtYWx6aGVpbWVycy1leHBlcnRzLXNheQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-01-23T13:06:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Joel Embiid bullies Victor Wembanyama, breaks Wilt Chamberlain's 76ers record with historic 70-point night - Yahoo Sports",
+      "description": null,
+      "url": "https://sports.yahoo.com/joel-embiid-bullies-victor-wembanyama-breaks-wilt-chamberlains-76ers-record-historic-70-point-night-030948048.html",
+      "urlToImage": null,
+      "publishedAt": "2024-01-23T12:48:12Z",
+      "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Shira Rubin",
+      "title": "24 Israeli soldiers killed in Gaza during Israel-Hamas war, IDF says - The Washington Post",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said the Israeli army is investigating the incident.",
+      "url": "https://www.washingtonpost.com/world/2024/01/23/israel-soldiers-killed-gaza-war-hostages/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-23-2024/t_ed7676ad3a044d88877f57da32478e39_name_PF2OGL2PYVHH3JM5CMVEFWBCGU.jpg&w=1440",
+      "publishedAt": "2024-01-23T12:37:00Z",
+      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nTEL AVIV Hamas militants fired a rocket-propelled grenade at an Israeli military mission preparing to demolish a building, killing 21 … [+3892 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "New Hampshire primary: Donald Trump and Nikki Haley to go head-to-head - BBC.com",
+      "description": "Voters go to the polls on Tuesday as the race for the presidential nomination enters its next stage.",
+      "url": "https://www.bbc.com/news/world-us-canada-68064703",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B176/production/_132403454_haley_trump_getty.jpg",
+      "publishedAt": "2024-01-23T12:15:00Z",
+      "content": "By Francesca GillettBBC News\r\nWatch: Whats at stake for Trump and Haley in New Hampshire?\r\nDonald Trump is facing his last remaining Republican opponent, Nikki Haley, in a primary election in New Ham… [+4991 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Natasha Khan",
+      "title": "P&G Earnings Show Some Consumers Are Getting Used to Higher Prices - The Wall Street Journal",
+      "description": "Consumer-products giant said sales volume increased for categories including hair care and family care in the latest quarter",
+      "url": "https://www.wsj.com/business/retail/p-g-earnings-show-some-consumers-are-getting-used-to-higher-prices-e26d1618",
+      "urlToImage": "https://images.wsj.net/im-915302/social",
+      "publishedAt": "2024-01-23T11:58:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "US and UK launch fresh strikes on Houthis in Yemen - BBC.com",
+      "description": "The second joint operation between the US and UK targets underground storage and missiles, they say.",
+      "url": "https://www.bbc.com/news/world-middle-east-68064422",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C292/production/_132401894_mediaitem132401892.jpg",
+      "publishedAt": "2024-01-23T11:47:00Z",
+      "content": "By Ruth Comerford &amp; Frank Gardner, security correspondentBBC News\r\nWatch: Explosions and flashes near Yemen's capital\r\nThe US and UK have conducted a fresh series of joint air strikes against Hou… [+7030 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WCVB Boston" },
+      "author": "The Associated Press",
+      "title": "Navy SEAL from Mass. dies trying to save teammate in Arabian Sea - WCVB Boston",
+      "description": "It was an instinctive act, honed by years of training, one teammate going to another's aid. But weighed down by their body armor, weapons and heavy equipment, the two SEALs plunged into the depths of the Arabian Sea and died.",
+      "url": "https://www.wcvb.com/article/navy-seal-from-massachusetts-dies-trying-to-save-teammate-in-arabian-sea/46500535",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/chambers-65afa52392643.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-01-23T11:47:00Z",
+      "content": "WASHINGTON —Under the darkness of night, in the roiling high seas off the coast of Somalia, members of the U.S. Navy's SEAL Team 3 began to climb aboard an unflagged ship that was carrying illicit Ir… [+4079 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Amazon fined for 'excessive' surveillance of workers - BBC.com",
+      "description": "The online retail giant was found to be keeping detailed data on employee working patterns.",
+      "url": "https://www.bbc.com/news/business-68067022",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3BEC/production/_132404351_amazon.png",
+      "publishedAt": "2024-01-23T11:01:00Z",
+      "content": "By Sam GruetBusiness reporter, BBC News\r\nAmazon has been fined 32m (£27m) in France for \"excessive\" surveillance of its workers, including measures the data watchdog found to be illegal. \r\nThe CNIL s… [+2661 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kim Schewitz",
+      "title": "Colorectal Cancer: Signs and symptoms younger patients experienced - Business Insider",
+      "description": "More people under 50 are dying from colorectal cancer, which can cause symptoms including abdominal pain and diarrhea, and experts aren't sure why.",
+      "url": "https://www.businessinsider.com/colorectal-cancer-high-mortality-young-people-signs-symptoms-disease-2024-1",
+      "urlToImage": "https://i.insider.com/65ae524b617029e90a5ee487?width=1200&format=jpeg",
+      "publishedAt": "2024-01-23T10:45:00Z",
+      "content": "More people under the age of 50 are dying of colorectal cancer\r\n than ever before, according to the American Cancer Association. And research suggests that patients in this age group can experience d… [+5832 chars]"
+    },
+    {
+      "source": { "id": "mashable", "name": "Mashable" },
+      "author": "Stan Schroeder",
+      "title": "Apple's Stolen Device Protection for iPhone is here, turn it on now - Mashable",
+      "description": "Apple's iOS 17.3 is now available for the iPhone. Time to turn on Stolen Device Protection.",
+      "url": "https://mashable.com/article/apple-iphone-stolen-device-protection-how-to",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03p82T550KusHbAAG8ODFU6/hero-image.fill.size_1200x675.v1706001516.jpg",
+      "publishedAt": "2024-01-23T10:06:17Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "fox8.com" },
+      "author": "Scott Sabol",
+      "title": "Watch for ice & freezing rain: Winter Weather Advisory - WJW FOX 8 News Cleveland",
+      "description": "A Winter Weather Advisory is now in effect for several Northeast Ohio counties due to freezing rain and icy conditions. The advisory is expected to remain in effect until noon.",
+      "url": "https://fox8.com/email-alerts/breaking-weather-email-alerts/weather-advisory-watch-for-freezing-rain-ice/",
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2024/01/Weather-alerts-counties-14.png?w=1280",
+      "publishedAt": "2024-01-23T09:47:41Z",
+      "content": "WJW) – A Winter Weather Advisory is now in effect for several Northeast Ohio counties due to freezing rain and icy conditions. The advisory is expected to remain in effect until noon.\r\nCounties impac… [+922 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Bills need to get younger on defense ahead of 2024 season, ex-NFL star Shawne Merriman says - Fox News",
+      "description": "Former NFL star linebacker Shawne Merriman pointed out on OutKick's \"Hot Mic\" what the Buffalo Bills need to address in the offseason.",
+      "url": "https://www.foxnews.com/sports/bills-need-to-get-younger-defense-2024-season-ex-nfl-star-shawne-merriman-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Dane-Jackson.jpg",
+      "publishedAt": "2024-01-23T09:45:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2299 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "China Weighs Stock Market Rescue Package Backed by $278 Billion - Bloomberg",
+      "description": "Chinese authorities are considering a package of measures to stabilize the slumping stock market, according to people familiar with the matter, after earlier attempts to restore investor confidence fell short and prompted Premier Li Qiang to call for “forcefu…",
+      "url": "https://www.bloomberg.com/news/articles/2024-01-23/china-mulls-stock-market-rescue-package-backed-by-278-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiX1SbS5L08w/v0/1200x800.jpg",
+      "publishedAt": "2024-01-23T08:03:45Z",
+      "content": "Chinese authorities are considering a package of measures to stabilize the slumping stock market, according to people familiar with the matter, after earlier attempts to restore investor confidence f… [+562 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Axel Metz",
+      "title": "No, the Samsung Galaxy S22 isn't getting Galaxy AI features – here's why - TechRadar",
+      "description": "Exclusive: “We want to secure the quality and the performance of what we deploy\"",
+      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/no-the-samsung-galaxy-s22-isnt-getting-galaxy-ai-features-heres-why",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tuJKqeB25jWVnN4JsiTRYk-1200-80.jpg",
+      "publishedAt": "2024-01-23T07:22:56Z",
+      "content": "The Samsung Galaxy S24 series launched last week with several AI-powered features in tow, and we now know that a select group of existing Samsung devices – including the Galaxy S23, Galaxy Z Fold 5 a… [+2602 chars]"
+    }
+  ]
+}

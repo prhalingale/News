@@ -1,0 +1,19 @@
+React Component lifecycle
+Series of events that happen from the mounting of a react component to its unmounting.
+> Mounting-Birth of your component
+> Update-Growth of your component
+> unmounting-Death of your component
+
+=>Methods in react component life cycle
+The render() method is used to render HTML of the component in react .
+this.state.articles.length !== this.state.totalResults
+
+=> React hooks
+    features of class based components in function based components
+    it allows you to use state and other react features without writing a class
+    hooks are the functions which hook into react state and lifecycle features from function components
+
+    useState
+    useEffect
+    useCntext
+    useRef
